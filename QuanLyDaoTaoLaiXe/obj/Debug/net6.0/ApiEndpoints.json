@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "QuanLyDaoTaoLaiXe.Services.XeTapLaiApiController",
+    "Method": "DanhSach",
+    "RelativePath": "api/XeTapLaiApi/DanhSach",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLyDaoTaoLaiXe.Services.XeTapLaiApiController",
+    "Method": "Hello",
+    "RelativePath": "api/XeTapLaiApi/Hello",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
